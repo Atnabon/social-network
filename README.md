@@ -97,4 +97,4 @@ npm run dev
 
 ## Contribute
 
-Show your support by ⭐ the project.
+Show your support by ⭐ theproject.
